@@ -1,0 +1,13 @@
+[1mdiff --git a/src/main/java/org/example/school.java b/src/main/java/org/example/school.java[m
+[1mindex f954e30..cac7571 100644[m
+[1m--- a/src/main/java/org/example/school.java[m
+[1m+++ b/src/main/java/org/example/school.java[m
+[36m@@ -1,2 +1,7 @@[m
+[31m-package org.example;public class school {[m
+[32m+[m[32mpackage org.example;[m
+[32m+[m
+[32m+[m[32mpublic class school {[m
+[32m+[m[32m    public static void main(String[] args) {[m
+[32m+[m[32m        System.out.println("Hello world!");[m
+[32m+[m[32m    }[m
+ }[m
